@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;xmlLoader&apos; to &apos;JDBCLoader&apos;" description="Rename resource &apos;xmlLoader&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/xmlLoader" name="JDBCLoader" stamp="1530639207611" updateReferences="true"/>
+</session>

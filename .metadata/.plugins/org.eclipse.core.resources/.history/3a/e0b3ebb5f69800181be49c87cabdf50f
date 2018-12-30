@@ -1,0 +1,16 @@
+
+public class testing {
+	private int a;
+	 void name(){
+		System.out.println("Hello");
+	}
+}
+
+ class test extends testing{
+	
+	static void main(String[] args){
+		test obj=new test();
+		obj.name();
+		
+	}
+}

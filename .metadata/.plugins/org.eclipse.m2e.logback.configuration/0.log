@@ -1,0 +1,1197 @@
+2018-06-20 19:24:43,248 [Worker-1163] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\FileReadAndWrite\jsonparser\pom.xml
+2018-06-20 19:25:01,370 [Worker-1163] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Parser:jsonparser:0.0.1-SNAPSHOT @ D:\FileReadAndWrite\jsonparser\pom.xml.
+2018-06-20 19:25:13,266 [Worker-1163] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jsonparser/src/main/java
+2018-06-20 19:25:13,619 [Worker-1163] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jsonparser/src/test/java
+2018-06-20 19:25:14,037 [Worker-1163] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 30 sec
+2018-06-20 19:25:16,912 [Worker-1170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:25:16,913 [Worker-1170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:25:16,914 [Worker-1170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:25:16,915 [Worker-1170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:25:29,503 [Worker-1169] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Parser:jsonparser:0.0.1-SNAPSHOT @ D:\FileReadAndWrite\jsonparser\pom.xml.
+2018-06-20 19:25:30,100 [Worker-1169] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20090211/json-20090211.pom
+2018-06-20 19:25:30,365 [Worker-1169] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20090211/json-20090211.pom
+2018-06-20 19:25:30,401 [Worker-1169] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20090211/json-20090211.jar
+2018-06-20 19:25:30,915 [Worker-1169] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20090211/json-20090211.jar
+2018-06-20 19:25:32,278 [Worker-1169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:25:32,278 [Worker-1169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:25:32,280 [Worker-1169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:25:32,280 [Worker-1169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:25:32,838 [Worker-1150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:25:32,839 [Worker-1150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:25:32,840 [Worker-1150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:25:32,840 [Worker-1150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:26:29,647 [Worker-1171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:26:29,647 [Worker-1171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:26:29,649 [Worker-1171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:26:29,649 [Worker-1171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:31:21,300 [Worker-1172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:31:21,300 [Worker-1172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:31:21,301 [Worker-1172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:31:21,301 [Worker-1172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:37:16,025 [Worker-1174] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Parser:jsonparser:0.0.1-SNAPSHOT @ D:\FileReadAndWrite\jsonparser\pom.xml.
+2018-06-20 19:37:16,210 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-06-20 19:37:16,453 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-06-20 19:37:16,499 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2018-06-20 19:37:16,576 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2018-06-20 19:37:16,643 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2018-06-20 19:37:16,719 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2018-06-20 19:37:16,830 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2018-06-20 19:37:17,020 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2018-06-20 19:37:17,053 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2018-06-20 19:37:17,410 [Worker-1174] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2018-06-20 19:37:18,356 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:37:18,356 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:37:18,358 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:37:18,358 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:37:19,510 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:37:19,510 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:37:19,512 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:37:19,513 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:37:56,050 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:37:56,051 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:37:56,052 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:37:56,053 [Worker-1174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:42:28,038 [Worker-1178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:42:28,038 [Worker-1178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:42:28,040 [Worker-1178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:42:28,040 [Worker-1178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:42:48,118 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:42:48,118 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:42:48,119 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:42:48,120 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:43:19,711 [Worker-1158] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2018-06-20 19:43:20,009 [Worker-1158] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2018-06-20 19:43:20,212 [Worker-1158] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.json-simple:json-simple:1.1.1
+2018-06-20 19:43:20,952 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:43:20,952 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:43:20,953 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:43:20,953 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:46:20,891 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:46:20,891 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:46:20,893 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:46:20,893 [Worker-1158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 19:48:21,891 [Worker-1183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:48:21,891 [Worker-1183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 19:48:21,974 [Worker-1183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 19:48:21,974 [Worker-1183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:05:31,783 [Worker-1188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:05:31,783 [Worker-1188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:05:31,784 [Worker-1188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:05:31,784 [Worker-1188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:06:16,074 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:06:16,075 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:06:16,076 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:06:16,076 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:12:10,547 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:12:10,547 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:12:10,549 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:12:10,549 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:17:37,399 [Worker-1195] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Parser:jsonparser:0.0.1-SNAPSHOT @ D:\FileReadAndWrite\jsonparser\pom.xml.
+2018-06-20 20:17:37,687 [Worker-1195] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2.pom
+2018-06-20 20:17:37,779 [Worker-1195] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2.pom
+2018-06-20 20:17:37,868 [Worker-1195] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.2/gson-parent-2.8.2.pom
+2018-06-20 20:17:37,899 [Worker-1195] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.2/gson-parent-2.8.2.pom
+2018-06-20 20:17:37,982 [Worker-1195] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar
+2018-06-20 20:17:38,198 [Worker-1195] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar
+2018-06-20 20:17:39,390 [Worker-1195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:17:39,390 [Worker-1195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:17:39,392 [Worker-1195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:17:39,393 [Worker-1195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:17:40,196 [Worker-1198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:17:40,196 [Worker-1198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:17:40,197 [Worker-1198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:17:40,198 [Worker-1198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:19:10,214 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:19:10,214 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:19:10,215 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:19:10,215 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:19:38,256 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:19:38,256 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:19:38,257 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:19:38,258 [Worker-1190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:20:01,168 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:20:01,168 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:20:01,169 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:20:01,169 [Worker-1199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:20:32,394 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:20:32,395 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:20:32,396 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:20:32,396 [Worker-1179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:32:04,452 [Worker-1200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:32:04,452 [Worker-1200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:32:04,453 [Worker-1200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:32:04,453 [Worker-1200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:35:58,015 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:35:58,015 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:35:58,018 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:35:58,019 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:37:48,296 [Worker-1203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:37:48,297 [Worker-1203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:37:48,298 [Worker-1203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:37:48,298 [Worker-1203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:38:31,205 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:38:31,205 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:38:31,206 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:38:31,206 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:41:19,768 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:41:19,768 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:41:19,769 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:41:19,769 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:41:33,197 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:41:33,198 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:41:33,199 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:41:33,199 [Worker-1208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:41:54,663 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:41:54,663 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:41:54,664 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:41:54,664 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:44:14,955 [Worker-1187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:44:14,955 [Worker-1187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:44:14,956 [Worker-1187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:44:14,957 [Worker-1187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:44:50,473 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:44:50,474 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:44:50,475 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:44:50,475 [Worker-1207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:45:38,205 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:45:38,205 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:45:38,207 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:45:38,207 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 20:51:36,499 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:51:36,499 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 20:51:36,499 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 20:51:36,499 [Worker-1211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:38:09,894 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:38:09,894 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:38:09,895 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:38:09,895 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:38:23,016 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:38:23,016 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:38:23,017 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:38:23,018 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:39:12,006 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:39:12,006 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:39:12,007 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:39:12,007 [Worker-1252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:39:34,665 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:39:34,665 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:39:34,666 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:39:34,666 [Worker-1249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:44:33,023 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:44:33,024 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:44:33,024 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:44:33,025 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:45:48,380 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:45:48,380 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:45:48,380 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:45:48,380 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:48:15,101 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:48:15,102 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:48:15,102 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:48:15,103 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:50:03,066 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:50:03,067 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:50:03,067 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:50:03,068 [Worker-1253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 22:50:28,747 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:50:28,748 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 22:50:28,748 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 22:50:28,748 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:11:50,582 [Worker-1259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:11:50,582 [Worker-1259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:11:50,583 [Worker-1259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:11:50,583 [Worker-1259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:18:11,370 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:18:11,371 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:18:11,371 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:18:11,372 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:35:10,504 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:35:10,504 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:35:10,505 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:35:10,505 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:35:25,753 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:35:25,753 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:35:25,754 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:35:25,754 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:36:14,546 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:36:14,547 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:36:14,547 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:36:14,547 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:37:26,074 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:37:26,074 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:37:26,075 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:37:26,076 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:38:05,472 [Worker-1279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:38:05,472 [Worker-1279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:38:05,473 [Worker-1279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:38:05,473 [Worker-1279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:39:30,779 [Worker-1283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:39:30,779 [Worker-1283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:39:30,779 [Worker-1283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:39:30,779 [Worker-1283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:43:36,802 [Worker-1280] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:43:36,802 [Worker-1280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:43:36,803 [Worker-1280] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:43:36,803 [Worker-1280] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:44:15,343 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:44:15,344 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:44:15,344 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:44:15,345 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:48:04,669 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:48:04,670 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:48:04,670 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:48:04,670 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:49:41,034 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:49:41,034 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:49:41,035 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:49:41,035 [Worker-1281] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:51:03,014 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:51:03,014 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:51:03,015 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:51:03,015 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:52:18,224 [Worker-1284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:52:18,224 [Worker-1284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:52:18,225 [Worker-1284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:52:18,225 [Worker-1284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:52:45,651 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:52:45,652 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:52:45,653 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:52:45,653 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:53:19,213 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:53:19,213 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:53:19,214 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:53:19,214 [Worker-1286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:54:37,150 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:54:37,150 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:54:37,151 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:54:37,151 [Worker-1285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-20 23:56:09,450 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:56:09,450 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-20 23:56:09,450 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-20 23:56:09,451 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:00:08,505 [Worker-1265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:00:08,505 [Worker-1265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:00:08,506 [Worker-1265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:00:08,506 [Worker-1265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:00:42,921 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:00:42,921 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:00:42,922 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:00:42,922 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:01:15,029 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:01:15,029 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:01:15,030 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:01:15,030 [Worker-1257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:01:21,106 [Worker-1287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:01:21,107 [Worker-1287] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:01:21,107 [Worker-1287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:01:21,107 [Worker-1287] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:01:51,052 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:01:51,052 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:01:51,053 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:01:51,053 [Worker-1288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:07:02,332 [Worker-1291] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:07:02,332 [Worker-1291] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:07:02,333 [Worker-1291] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:07:02,333 [Worker-1291] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:09:37,009 [Worker-1294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:09:37,010 [Worker-1294] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:09:37,010 [Worker-1294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:09:37,010 [Worker-1294] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:12:03,731 [Worker-1295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:12:03,731 [Worker-1295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:12:03,731 [Worker-1295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:12:03,731 [Worker-1295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:13:37,679 [Worker-1277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:13:37,680 [Worker-1277] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:13:37,680 [Worker-1277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:13:37,680 [Worker-1277] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:15:27,617 [Worker-1296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:15:27,617 [Worker-1296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:15:27,618 [Worker-1296] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:15:27,618 [Worker-1296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:20:43,915 [Worker-1297] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:20:43,915 [Worker-1297] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:20:43,916 [Worker-1297] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:20:43,916 [Worker-1297] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:27:58,695 [Worker-1307] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:27:58,696 [Worker-1307] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:27:58,696 [Worker-1307] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:27:58,696 [Worker-1307] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:29:23,916 [Worker-1316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:29:23,916 [Worker-1316] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:29:23,917 [Worker-1316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:29:23,917 [Worker-1316] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:31:36,377 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:31:36,377 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:31:36,378 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:31:36,378 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:32:44,672 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:32:44,673 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:32:44,673 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:32:44,673 [Worker-1311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:33:27,348 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:33:27,348 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:33:27,349 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:33:27,349 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:34:51,013 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:34:51,014 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:34:51,014 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:34:51,014 [Worker-1315] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:35:18,203 [Worker-1313] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:35:18,203 [Worker-1313] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:35:18,204 [Worker-1313] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:35:18,204 [Worker-1313] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:36:10,994 [Worker-1318] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:36:10,994 [Worker-1318] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:36:10,995 [Worker-1318] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:36:10,995 [Worker-1318] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:47:38,207 [Worker-1322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:47:38,207 [Worker-1322] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:47:38,208 [Worker-1322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:47:38,208 [Worker-1322] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:48:02,357 [Worker-1325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:48:02,357 [Worker-1325] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:48:02,358 [Worker-1325] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:48:02,358 [Worker-1325] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:49:53,287 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:49:53,288 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:49:53,288 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:49:53,289 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:50:59,319 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:50:59,319 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:50:59,320 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:50:59,320 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:51:43,299 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:51:43,300 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:51:43,300 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:51:43,300 [Worker-1324] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 00:52:43,621 [Worker-1321] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:52:43,621 [Worker-1321] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 00:52:43,622 [Worker-1321] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 00:52:43,622 [Worker-1321] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:04:39,362 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:04:39,363 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:04:39,364 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:04:39,364 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:04:59,340 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:04:59,341 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:04:59,341 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:04:59,342 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:06:34,290 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:06:34,290 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:06:34,290 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:06:34,291 [Worker-1330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:08:07,752 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:08:07,752 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:08:07,753 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:08:07,753 [Worker-1329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:24:52,632 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:24:52,632 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:24:52,656 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:24:52,656 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:36:28,084 [Worker-1352] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:36:28,085 [Worker-1352] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:36:28,085 [Worker-1352] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:36:28,086 [Worker-1352] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:36:56,544 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:36:56,544 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:36:56,545 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:36:56,545 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:37:40,813 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:37:40,813 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:37:40,814 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:37:40,814 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:38:08,868 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:38:08,869 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:38:08,869 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:38:08,870 [Worker-1332] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:38:39,193 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:38:39,193 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:38:39,194 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:38:39,194 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:43:14,346 [Worker-1342] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:43:14,346 [Worker-1342] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:43:14,348 [Worker-1342] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:43:14,348 [Worker-1342] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:45:10,561 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:45:10,562 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:45:10,562 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:45:10,562 [Worker-1355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:53:26,218 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:53:26,218 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:53:26,218 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:53:26,218 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:56:13,060 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:56:13,060 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:56:13,061 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:56:13,061 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:59:45,359 [Worker-1358] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:59:45,359 [Worker-1358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:59:45,360 [Worker-1358] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:59:45,360 [Worker-1358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 01:59:58,625 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:59:58,626 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 01:59:58,626 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 01:59:58,626 [Worker-1353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:05:01,636 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:05:01,637 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:05:01,637 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:05:01,637 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:34:32,050 [Worker-1376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:34:32,050 [Worker-1376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:34:32,051 [Worker-1376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:34:32,051 [Worker-1376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:34:59,705 [Worker-1377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:34:59,706 [Worker-1377] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:34:59,706 [Worker-1377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:34:59,707 [Worker-1377] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:36:49,119 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:36:49,119 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:36:49,120 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:36:49,120 [Worker-1379] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:37:20,905 [Worker-1372] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:37:20,905 [Worker-1372] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:37:20,906 [Worker-1372] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:37:20,906 [Worker-1372] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:41:17,175 [Worker-1380] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:41:17,175 [Worker-1380] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:41:17,176 [Worker-1380] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:41:17,176 [Worker-1380] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:43:49,994 [Worker-1382] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:43:49,995 [Worker-1382] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:43:49,995 [Worker-1382] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:43:49,996 [Worker-1382] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 02:45:51,730 [Worker-1375] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:45:51,731 [Worker-1375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 02:45:51,731 [Worker-1375] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 02:45:51,731 [Worker-1375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-21 03:26:43,992 [Worker-1381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 03:26:43,993 [Worker-1381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-21 03:26:43,994 [Worker-1381] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 03:26:43,995 [Worker-1381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-25 22:30:40,007 [Worker-2430] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 22:30:40,153 [Worker-2430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-25 22:30:40,155 [Worker-2430] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 22:30:40,159 [Worker-2430] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-25 22:36:08,024 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 22:36:08,025 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-25 22:36:08,026 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 22:36:08,026 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-25 22:37:06,531 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 22:37:06,532 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-25 22:37:06,532 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 22:37:06,533 [Worker-2433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 12:22:22,024 [Worker-2526] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 12:22:22,025 [Worker-2526] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 12:22:22,026 [Worker-2526] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 12:22:22,026 [Worker-2526] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 13:07:41,937 [Worker-2541] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:07:41,937 [Worker-2541] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 13:07:41,938 [Worker-2541] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:07:41,938 [Worker-2541] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 13:12:49,058 [Worker-2542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:12:49,058 [Worker-2542] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 13:12:49,059 [Worker-2542] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:12:49,059 [Worker-2542] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 13:53:35,778 [Worker-2562] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:53:35,779 [Worker-2562] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 13:53:35,780 [Worker-2562] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:53:35,780 [Worker-2562] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 13:53:51,953 [Worker-2554] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:53:51,954 [Worker-2554] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 13:53:51,954 [Worker-2554] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:53:51,955 [Worker-2554] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 13:55:25,998 [Worker-2570] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:55:25,998 [Worker-2570] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 13:55:25,999 [Worker-2570] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 13:55:25,999 [Worker-2570] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 14:03:18,790 [Worker-2565] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 14:03:18,791 [Worker-2565] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 14:03:18,791 [Worker-2565] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 14:03:18,791 [Worker-2565] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 14:04:18,318 [Worker-2575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 14:04:18,336 [Worker-2575] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 14:04:18,337 [Worker-2575] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 14:04:18,337 [Worker-2575] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 15:40:16,160 [Worker-2585] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 15:40:16,162 [Worker-2585] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 15:40:16,163 [Worker-2585] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 15:40:16,163 [Worker-2585] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 15:50:03,760 [Worker-2593] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 15:50:03,761 [Worker-2593] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 15:50:03,761 [Worker-2593] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 15:50:03,762 [Worker-2593] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 16:17:39,190 [Worker-2611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 16:17:39,190 [Worker-2611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 16:17:39,191 [Worker-2611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 16:17:39,191 [Worker-2611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 16:23:43,127 [Worker-2608] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 16:23:43,128 [Worker-2608] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 16:23:43,129 [Worker-2608] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 16:23:43,129 [Worker-2608] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 16:25:07,550 [Worker-2619] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 16:25:07,551 [Worker-2619] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 16:25:07,551 [Worker-2619] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 16:25:07,551 [Worker-2619] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 17:10:31,275 [Worker-2626] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 17:10:31,275 [Worker-2626] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 17:10:31,276 [Worker-2626] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 17:10:31,276 [Worker-2626] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 17:22:48,311 [Worker-2642] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 17:22:48,311 [Worker-2642] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 17:22:48,312 [Worker-2642] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 17:22:48,312 [Worker-2642] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 18:17:30,752 [Worker-2662] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:17:30,772 [Worker-2662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 18:17:30,773 [Worker-2662] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:17:30,773 [Worker-2662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 18:19:08,393 [Worker-2664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:19:08,394 [Worker-2664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 18:19:08,394 [Worker-2664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:19:08,395 [Worker-2664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 18:48:13,634 [Worker-2668] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:48:13,635 [Worker-2668] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 18:48:13,676 [Worker-2668] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:48:13,676 [Worker-2668] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 18:48:21,292 [Worker-2673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:48:21,292 [Worker-2673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 18:48:21,293 [Worker-2673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 18:48:21,293 [Worker-2673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 23:35:24,113 [Worker-2776] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:35:24,192 [Worker-2776] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 23:35:24,193 [Worker-2776] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:35:24,193 [Worker-2776] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 23:40:13,870 [Worker-2774] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:40:13,870 [Worker-2774] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 23:40:13,870 [Worker-2774] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:40:13,871 [Worker-2774] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 23:45:23,989 [Worker-2775] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:45:23,989 [Worker-2775] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 23:45:23,990 [Worker-2775] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:45:23,990 [Worker-2775] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-26 23:56:35,165 [Worker-2784] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:56:35,179 [Worker-2784] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-26 23:56:35,180 [Worker-2784] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-26 23:56:35,181 [Worker-2784] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-27 02:23:42,950 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 02:23:42,951 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-27 02:23:42,959 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 02:23:42,960 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-27 02:28:37,181 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 02:28:37,182 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-27 02:28:37,182 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 02:28:37,182 [Worker-2832] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-27 02:59:35,853 [Worker-2833] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 02:59:35,854 [Worker-2833] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-27 02:59:35,855 [Worker-2833] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 02:59:35,855 [Worker-2833] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-27 03:15:30,147 [Worker-2858] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 03:15:30,148 [Worker-2858] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-06-27 03:15:30,148 [Worker-2858] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-27 03:15:30,149 [Worker-2858] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-06-30 22:54:53,317 [Worker-775] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration dblp_parser references closed project jsonparser
+org.eclipse.core.runtime.CoreException: Launch configuration dblp_parser references closed project jsonparser
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2018-06-30 22:54:53,789 [Worker-775] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration dblp_parser references closed project jsonparser
+org.eclipse.core.runtime.CoreException: Launch configuration dblp_parser references closed project jsonparser
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2018-06-30 22:54:54,146 [Worker-775] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration dblp_parser references closed project jsonparser
+org.eclipse.core.runtime.CoreException: Launch configuration dblp_parser references closed project jsonparser
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2018-07-03 20:15:23,244 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 20:15:23,269 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 20:15:23,270 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 20:15:23,271 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 20:16:10,364 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 20:16:10,365 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 20:16:10,366 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 20:16:10,366 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 22:36:31,163 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 22:36:31,475 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 22:36:31,475 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 22:36:31,475 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 22:44:50,561 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 22:44:50,561 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 22:44:50,561 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 22:44:50,561 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 23:03:05,313 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:03:05,329 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 23:03:05,329 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:03:05,329 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 23:03:23,781 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:03:23,781 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 23:03:23,796 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:03:23,796 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 23:06:26,920 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:06:26,920 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 23:06:26,920 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:06:26,920 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 23:53:16,515 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:53:16,515 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 23:53:16,515 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:53:16,515 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-03 23:56:19,971 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:56:19,971 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-03 23:56:19,975 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-03 23:56:19,975 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 16:03:08,267 [Worker-535] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Parser:jsonparser:0.0.1-SNAPSHOT @ D:\FileReadAndWrite\jsonparser\pom.xml.
+2018-07-05 16:03:10,108 [Worker-535] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar
+2018-07-05 16:03:10,202 [Worker-535] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar
+2018-07-05 16:03:15,915 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:03:15,916 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 16:03:15,918 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:03:15,918 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 16:03:22,690 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:03:22,690 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 16:03:22,692 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:03:22,692 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 16:06:20,980 [Worker-547] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:06:20,980 [Worker-547] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 16:06:20,981 [Worker-547] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:06:20,982 [Worker-547] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 16:19:47,333 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:19:47,333 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 16:19:47,334 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:19:47,335 [Worker-554] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 16:22:39,032 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:22:39,032 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 16:22:39,033 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 16:22:39,033 [Worker-555] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 18:31:37,601 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 18:31:37,603 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 18:31:37,604 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 18:31:37,604 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 18:32:23,034 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 18:32:23,035 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 18:32:23,036 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 18:32:23,037 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 18:39:44,310 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 18:39:44,326 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 18:39:44,331 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 18:39:44,331 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 19:20:27,899 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 19:20:27,900 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 19:20:27,901 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 19:20:27,901 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 19:34:41,980 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 19:34:41,981 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 19:34:41,982 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 19:34:41,982 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 21:35:13,980 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 21:35:13,980 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 21:35:13,980 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 21:35:13,980 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 22:08:18,924 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 22:08:18,925 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 22:08:18,926 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 22:08:18,926 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 22:09:39,781 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 22:09:39,782 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 22:09:39,841 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 22:09:39,842 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-05 22:10:44,325 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 22:10:44,325 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-05 22:10:44,326 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-05 22:10:44,326 [Worker-629] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 00:25:18,878 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:25:18,897 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 00:25:18,898 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:25:18,899 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 00:25:45,204 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:25:45,209 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 00:25:45,235 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:25:45,235 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 00:26:37,335 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:26:37,335 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 00:26:37,465 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:26:37,465 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 00:32:04,268 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:32:04,269 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 00:32:04,269 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:32:04,269 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 00:33:25,284 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:33:25,284 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 00:33:25,285 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:33:25,285 [Worker-631] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 00:35:06,113 [Worker-633] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:35:06,113 [Worker-633] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 00:35:06,114 [Worker-633] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 00:35:06,114 [Worker-633] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 08:51:10,513 [Worker-632] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 08:51:10,535 [Worker-632] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 08:51:10,535 [Worker-632] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 08:51:10,536 [Worker-632] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 08:51:44,655 [Worker-638] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 08:51:44,656 [Worker-638] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 08:51:44,804 [Worker-638] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 08:51:44,804 [Worker-638] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 15:48:55,630 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 15:48:55,646 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 15:48:55,662 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 15:48:55,662 [Worker-652] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 15:49:04,570 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 15:49:04,570 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 15:49:04,586 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 15:49:04,586 [Worker-655] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 15:55:47,350 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 15:55:47,350 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 15:55:47,378 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 15:55:47,378 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 16:35:56,467 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 16:35:56,467 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 16:35:56,467 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 16:35:56,467 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 17:50:41,434 [Worker-745] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 17:50:41,465 [Worker-745] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 17:50:41,465 [Worker-745] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 17:50:41,465 [Worker-745] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:01:43,806 [Worker-752] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:01:43,806 [Worker-752] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:01:43,806 [Worker-752] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:01:43,806 [Worker-752] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:01:50,381 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:01:50,381 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:01:50,381 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:01:50,381 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:02:04,410 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:02:04,410 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:02:04,426 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:02:04,426 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:06:20,970 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:06:20,970 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:06:20,970 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:06:20,970 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:06:47,193 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:06:47,193 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:06:47,193 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:06:47,193 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:11:57,662 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:11:57,662 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:11:57,662 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:11:57,662 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:15:25,266 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:15:25,266 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:15:25,266 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:15:25,266 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:18:46,562 [Worker-767] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:18:46,562 [Worker-767] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:18:46,562 [Worker-767] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:18:46,562 [Worker-767] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:22:24,626 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:22:24,626 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:22:24,626 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:22:24,626 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:33:32,881 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:33:32,881 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:33:32,881 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:33:32,881 [Worker-769] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:43:18,158 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:43:18,158 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:43:18,158 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:43:18,158 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 18:50:21,681 [Worker-780] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:50:21,681 [Worker-780] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 18:50:21,681 [Worker-780] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 18:50:21,681 [Worker-780] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 19:04:44,757 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:04:44,757 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 19:04:44,757 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:04:44,757 [Worker-779] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 19:07:20,103 [Worker-799] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:07:20,103 [Worker-799] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 19:07:20,103 [Worker-799] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:07:20,103 [Worker-799] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 19:33:33,141 [Worker-810] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:33:33,141 [Worker-810] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 19:33:33,141 [Worker-810] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:33:33,141 [Worker-810] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 19:34:18,241 [Worker-813] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:34:18,241 [Worker-813] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 19:34:18,241 [Worker-813] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:34:18,241 [Worker-813] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 19:35:27,690 [Worker-809] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:35:27,690 [Worker-809] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 19:35:27,690 [Worker-809] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:35:27,690 [Worker-809] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-06 19:37:29,735 [Worker-814] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:37:29,735 [Worker-814] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-06 19:37:29,735 [Worker-814] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-06 19:37:29,735 [Worker-814] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 01:58:45,331 [Worker-977] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 01:58:45,400 [Worker-977] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 01:58:45,421 [Worker-977] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 01:58:45,498 [Worker-977] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 01:59:25,050 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 01:59:25,050 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 01:59:25,097 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 01:59:25,097 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 02:44:35,873 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 02:44:35,874 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 02:44:35,875 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 02:44:35,875 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 02:52:15,566 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 02:52:15,566 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 02:52:15,567 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 02:52:15,567 [Worker-1003] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 11:45:51,572 [Worker-1243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:45:51,580 [Worker-1243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 11:45:51,596 [Worker-1243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:45:51,596 [Worker-1243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 11:46:11,765 [Worker-1239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:46:11,765 [Worker-1239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 11:46:11,765 [Worker-1239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:46:11,765 [Worker-1239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 11:49:02,579 [Worker-1244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:49:02,579 [Worker-1244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 11:49:02,579 [Worker-1244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:49:02,579 [Worker-1244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 11:55:00,519 [Worker-1242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:55:00,519 [Worker-1242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 11:55:00,523 [Worker-1242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:55:00,523 [Worker-1242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 11:55:40,742 [Worker-1247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:55:40,742 [Worker-1247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 11:55:40,746 [Worker-1247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 11:55:40,746 [Worker-1247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:02:38,041 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:02:38,041 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:02:38,041 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:02:38,041 [Worker-1255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:32:07,593 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:32:07,593 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:32:07,597 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:32:07,597 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:33:44,021 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:33:44,021 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:33:44,021 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:33:44,021 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:34:04,698 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:34:04,702 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:34:04,702 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:34:04,702 [Worker-1260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:34:27,209 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:34:27,209 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:34:27,209 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:34:27,213 [Worker-1267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:35:58,223 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:35:58,227 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:35:58,227 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:35:58,227 [Worker-1264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:39:40,555 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:39:40,555 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:39:40,555 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:39:40,555 [Worker-1271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:42:09,173 [Worker-1278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:42:09,173 [Worker-1278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:42:09,173 [Worker-1278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:42:09,173 [Worker-1278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 12:42:22,142 [Worker-1276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:42:22,142 [Worker-1276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 12:42:22,142 [Worker-1276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 12:42:22,142 [Worker-1276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-07 13:43:23,473 [Worker-1301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 13:43:23,473 [Worker-1301] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-07 13:43:23,477 [Worker-1301] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-07 13:43:23,477 [Worker-1301] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 14:59:25,601 [Worker-1661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 14:59:25,668 [Worker-1661] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 14:59:25,669 [Worker-1661] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 14:59:25,669 [Worker-1661] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 15:03:54,884 [Worker-1662] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 15:03:54,884 [Worker-1662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 15:03:54,885 [Worker-1662] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 15:03:54,885 [Worker-1662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 17:06:10,245 [Worker-1706] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:06:10,245 [Worker-1706] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 17:06:10,246 [Worker-1706] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:06:10,247 [Worker-1706] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 17:06:14,306 [Worker-1705] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:06:14,306 [Worker-1705] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 17:06:14,319 [Worker-1705] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:06:14,319 [Worker-1705] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 17:09:49,737 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:09:49,737 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 17:09:49,738 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:09:49,738 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 17:10:34,683 [Worker-1707] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:10:34,683 [Worker-1707] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 17:10:34,684 [Worker-1707] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:10:34,684 [Worker-1707] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 17:10:51,017 [Worker-1709] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:10:51,017 [Worker-1709] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 17:10:51,018 [Worker-1709] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:10:51,018 [Worker-1709] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-08 17:14:20,602 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:14:20,602 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-08 17:14:20,603 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-08 17:14:20,603 [Worker-1700] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-16 15:10:48,810 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 15:10:48,837 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-16 15:10:48,839 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 15:10:48,839 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-16 15:12:09,670 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 15:12:09,672 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-16 15:12:09,674 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 15:12:09,674 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-07-16 23:18:56,867 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 23:18:57,391 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-07-16 23:18:57,451 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 23:18:57,879 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-08-16 15:39:45,413 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/4.0/opencsv-4.0.pom
+2018-08-16 15:39:45,644 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/4.0/opencsv-4.0.pom
+2018-08-16 15:39:45,703 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.pom
+2018-08-16 15:39:45,742 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.pom
+2018-08-16 15:39:45,815 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2018-08-16 15:39:45,875 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2018-08-16 15:39:46,004 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.1/commons-text-1.1.pom
+2018-08-16 15:39:46,053 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.1/commons-text-1.1.pom
+2018-08-16 15:39:46,230 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.pom
+2018-08-16 15:39:46,266 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.pom
+2018-08-16 15:39:46,627 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.pom
+2018-08-16 15:39:46,665 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.pom
+2018-08-16 15:39:46,697 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2018-08-16 15:39:46,762 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2018-08-16 15:39:47,050 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/4.0/opencsv-4.0.jar
+2018-08-16 15:39:47,221 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/4.0/opencsv-4.0.jar
+2018-08-16 15:39:47,239 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar
+2018-08-16 15:39:47,465 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar
+2018-08-16 15:39:47,484 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.1/commons-text-1.1.jar
+2018-08-16 15:39:47,605 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.1/commons-text-1.1.jar
+2018-08-16 15:39:47,618 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
+2018-08-16 15:39:48,453 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
+2018-08-16 15:39:48,472 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+2018-08-16 15:39:48,803 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+2018-08-16 15:46:11,025 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: coddDataset:converter:0.0.1-SNAPSHOT @ F:\CoddExtractorFromAnushasDplpDataset\converter\pom.xml.
+2018-08-16 15:46:13,550 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /converter/src/main/java
+2018-08-16 15:46:13,553 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /converter/src/test/java
+2018-08-16 15:46:13,750 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2018-08-16 15:46:14,347 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 15:46:14,347 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 15:46:14,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 15:46:14,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 15:46:30,801 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-16 15:46:31,272 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: coddDataset:converter:0.0.1-SNAPSHOT @ F:\CoddExtractorFromAnushasDplpDataset\converter\pom.xml.
+2018-08-16 15:46:31,472 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /converter/src/main/java
+2018-08-16 15:46:31,473 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /converter/src/test/java
+2018-08-16 15:46:31,612 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-08-16 15:46:31,878 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 15:46:31,879 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 15:46:31,883 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 15:46:31,883 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 15:46:45,229 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 15:46:45,229 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 15:46:45,230 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 15:46:45,230 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 16:12:55,401 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:12:55,402 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 16:12:55,403 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:12:55,403 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 16:14:22,581 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:14:22,581 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 16:14:22,582 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:14:22,582 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 16:32:00,143 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:32:00,143 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 16:32:00,143 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:32:00,143 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 16:36:50,069 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:36:50,069 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 16:36:50,084 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:36:50,084 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 16:38:45,928 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:38:45,928 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 16:38:45,928 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 16:38:45,928 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 17:32:54,357 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:32:54,357 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 17:32:54,357 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:32:54,357 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 17:49:34,425 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:49:34,441 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 17:49:34,666 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:49:34,666 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 17:51:17,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:51:17,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 17:51:17,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:51:17,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 17:51:53,668 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:51:53,668 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 17:51:53,668 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:51:53,668 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 17:52:02,308 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:52:02,308 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 17:52:02,324 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:52:02,324 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 17:52:46,546 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:52:46,546 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 17:52:46,562 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 17:52:46,562 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 18:48:06,023 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 18:48:06,023 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 18:48:06,023 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 18:48:06,023 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 18:48:20,512 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 18:48:20,512 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 18:48:20,512 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 18:48:20,512 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 18:52:02,558 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 18:52:02,558 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 18:52:02,558 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 18:52:02,558 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 19:11:50,331 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:11:50,340 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 19:11:50,340 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:11:50,340 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 19:12:10,100 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:12:10,100 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 19:12:10,100 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:12:10,100 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 19:12:26,219 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:12:26,219 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 19:12:26,219 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:12:26,219 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 19:14:53,671 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:14:53,671 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 19:14:53,671 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:14:53,671 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 19:37:30,868 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:37:30,868 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 19:37:30,907 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 19:37:30,907 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 20:31:13,590 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:31:13,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 20:31:13,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:31:13,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 20:33:44,714 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:33:44,714 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 20:33:44,745 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:33:44,745 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 20:44:51,357 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:44:51,357 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 20:44:51,357 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:44:51,357 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 20:45:26,310 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:45:26,310 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 20:45:26,310 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:45:26,310 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 20:54:30,794 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:54:30,794 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 20:54:30,794 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:54:30,794 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 20:56:55,673 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:56:55,673 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 20:56:55,673 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 20:56:55,673 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 21:01:00,370 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 21:01:00,370 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 21:01:00,370 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 21:01:00,370 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-16 21:05:51,494 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 21:05:51,494 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-16 21:05:51,494 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-16 21:05:51,494 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-17 12:29:51,777 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 12:29:51,805 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-17 12:29:51,807 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 12:29:51,807 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-17 12:31:24,265 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 12:31:24,266 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-17 12:31:24,267 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 12:31:24,268 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-17 13:20:04,401 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:20:04,401 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-17 13:20:04,416 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:20:04,416 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-17 13:48:46,954 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/4.0/opencsv-4.0-sources.jar
+2018-08-17 13:48:47,073 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/4.0/opencsv-4.0-sources.jar
+2018-08-17 13:48:47,392 [Worker-48] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.opencsv:opencsv:4.0
+2018-08-17 13:48:47,564 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:48:47,564 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-17 13:48:47,579 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:48:47,579 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-17 13:52:47,267 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:52:47,282 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-17 13:52:47,282 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:52:47,282 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-08-17 13:53:27,623 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:53:27,638 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\main\resources
+2018-08-17 13:53:27,638 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-17 13:53:27,638 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CoddExtractorFromAnushasDplpDataset\converter\src\test\resources
+2018-09-17 14:24:04,861 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-17 14:24:04,885 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-09-17 14:24:04,887 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-17 14:24:04,887 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-09-26 22:11:00,158 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-26 22:11:00,178 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-09-26 22:11:00,179 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-26 22:11:00,180 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources
+2018-12-21 21:29:02,022 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 21:29:02,042 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\main\resources
+2018-12-21 21:29:02,044 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 21:29:02,044 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FileReadAndWrite\jsonparser\src\test\resources

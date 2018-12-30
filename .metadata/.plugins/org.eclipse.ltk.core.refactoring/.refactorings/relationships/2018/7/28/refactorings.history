@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;referenceRelation.java&apos; to &apos;jsonparser&apos;&#x0D;&#x0A;- Original project: &apos;relationships&apos;&#x0D;&#x0A;- Destination element: &apos;jsonparser&apos;&#x0D;&#x0A;- Original element: &apos;relationships.referenceRelation.java&apos;" description="Copy compilation unit" element1="/src&lt;relationships{referenceRelation.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1531062589552" target="/jsonparser/src/main/java/Parser/jsonparser" units="1" version="1.0"/>
+</session>

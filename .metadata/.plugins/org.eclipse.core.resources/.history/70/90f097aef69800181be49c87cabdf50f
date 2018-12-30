@@ -1,0 +1,13 @@
+
+public class testing {
+	private int a;
+	void name(){
+		System.out.println("Hello");
+	}
+}
+
+ class test extends testing{
+	test obj=new test();
+
+	
+}

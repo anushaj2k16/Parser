@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;loader.loader&apos; to &apos;dblpxmlloader&apos;&#x0D;&#x0A;- Original project: &apos;xmlLoader&apos;&#x0D;&#x0A;- Original element: &apos;loader.loader&apos;&#x0D;&#x0A;- Renamed element: &apos;loader.dblpxmlloader&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;loader&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;loader{loader.java[loader" matchStrategy="1" name="dblpxmlloader" qualified="false" references="true" similarDeclarations="false" stamp="1530639183372" textual="false" version="1.0"/>
+</session>

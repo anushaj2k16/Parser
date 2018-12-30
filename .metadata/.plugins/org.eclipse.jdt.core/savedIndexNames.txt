@@ -1,0 +1,10 @@
+INDEX VERSION 1.130+D:\FileReadAndWrite\.metadata\.plugins\org.eclipse.jdt.core
+3587607820.index
+3799052642.index
+1640447412.index
+1673897776.index
+2379883746.index
+2651336324.index
+1526362841.index
+1408835662.index
+77842426.index
